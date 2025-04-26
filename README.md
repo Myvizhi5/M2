@@ -34,7 +34,9 @@ int main() {
     printf("\n");
     return 0;
 }
-## OUTPUT:
+```
+ OUTPUT:
+```
 Enter the value of M: 3
 Enter the value of N: 15
 Even numbers between 3 and 15 are: 4 6 8 10 12 14
@@ -78,7 +80,9 @@ int main() {
 
     return 0;
 }
-## OUTPUT:
+```
+ OUTPUT:
+ ```
 Enter the number of rows: 5
 * 
 * * 
@@ -134,10 +138,9 @@ int main() {
 
     return 0;
 }
-
-
-
-## OUTPUT:
+```
+ OUTPUT:
+ ```
 Enter the first number: 15
 Enter the second number: 5
 Addition result: 20
@@ -186,10 +189,9 @@ int main() {
 
     return 0;
 }
-
-
-
-## OUTPUT:
+```
+OUTPUT:
+```
 Enter a number: 123456
 Sum of odd digits: 9
 ```
@@ -236,7 +238,9 @@ int main() {
     fact();
     return 0;
 }
-## OUTPUT:
+```
+OUTPUT:
+```
 Enter a number: 5
 Factorial of 5 is 120
 ```
